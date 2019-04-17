@@ -15,4 +15,3 @@ def task2(n):
 
 task2(100)
 
-
